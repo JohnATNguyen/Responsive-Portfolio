@@ -191,7 +191,7 @@ footer {
 
 @media screen and (max-width: 980px) {
 	#logo {
-		margin-right: 22.5%;
+		margin-right: 18%;
 	}
 
 	#profile_image {
@@ -207,7 +207,7 @@ footer {
 
 @media screen and (max-width: 768px) {
 	#logo {
-		margin-right: 10%;
+		margin-right: 4%;
 	}
 
 	#profile_image {
@@ -259,7 +259,7 @@ footer {
 
 	aside {
 		position: static;
-		margin: 0px 0% 40px 10%;
+		margin: 0px 0px 40px 10%;
 		width: 500px;
 	}
 
